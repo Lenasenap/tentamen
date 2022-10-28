@@ -1,0 +1,12 @@
+[
+  {
+    "firstName": "Kalle",
+    "lastName": "Anka",
+    "favouriteMovie": "Testfilm"
+  },
+  {
+    "firstName": "Bengt",
+    "lastName": "Bengtsson",
+    "favouriteMovie": "Också en bra film"
+  }
+]

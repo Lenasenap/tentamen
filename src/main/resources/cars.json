@@ -1,0 +1,18 @@
+[
+  {
+    "color": "Blå",
+    "brand": "Volvo"
+  },
+  {
+    "color": "Röd",
+    "brand": "Tesla"
+  },
+  {
+    "color": "Svart",
+    "brand": "Saab"
+  },
+  {
+    "color": "Gul",
+    "brand": "Skoda"
+  }
+]
